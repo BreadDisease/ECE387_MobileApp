@@ -4,4 +4,4 @@ This Android app is built to display text on the screen of how many times the bu
 
 A video showcasing the app working can be found at the link below:
 
-https://youtu.be/Y8PaGYcpbmc
+https://youtu.be/aafuoYdt3iw
